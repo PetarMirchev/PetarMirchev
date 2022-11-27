@@ -8,3 +8,6 @@
 PetarMirchev/PetarMirchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Languages and Tools:
+css3 html5 javascript photoshop coreldraw
