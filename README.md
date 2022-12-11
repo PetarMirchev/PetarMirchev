@@ -1,7 +1,7 @@
 - 👋 Hey there, I'm Petar Mirchev! Passionate about web development technologies.
 - 👀 I’m interested in JavaScript, Front End and ReactJs.
 - 🌱 I’m currently learning JavaScript & ReactJs.
-- 📫 How to reach me -> petar_g@abv.bg
+- 📫 How to reach me -> petar_g@abv.bg , <p href="https://www.linkedin.com/in/petar-mirchev-476747176/" target="_blank" rel="noreferrer">linkedin<p/>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
