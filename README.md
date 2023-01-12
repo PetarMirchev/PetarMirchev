@@ -23,9 +23,7 @@ You can click the Preview link to take a look at your changes.
   
 <!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarmirchev&show_icons=true&locale=en&layout=compact" alt="petarmirchev" /></p> -->
  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=petarmirchev&repo=github-readme-stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=petarmirchev&repo=convoychat"></td>
-  </tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=petarmirchev&repo=github-readme-stats" width="49.6%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" width="49.6%" /> 
+</p>
