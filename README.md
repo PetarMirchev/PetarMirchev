@@ -21,9 +21,9 @@ You can click the Preview link to take a look at your changes.
   <!-- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
 
   
-<!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarmirchev&show_icons=true&locale=en&layout=compact" alt="petarmirchev" /></p> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petarmirchev&show_icons=true&locale=en&layout=compact" alt="petarmirchev" /></p>
  
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=petarmirchev&repo=github-readme-stats" width="49.6%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" width="49.6%" /> 
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=petarmirchev&repo=convoychat" width="49.6%" /> 
+</p> -->
