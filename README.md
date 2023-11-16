@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm Petar Mirchev! Passionate about web development technologies.
+- 👋 Hey there, I'm Petar Mirchev! Passionate about web development technologies. I also believe what Albert Einstein said: “We cannot solve our problems with the same thinking we used when we created them.”.
 - 👀 I’m interested in JavaScript, Front End and ReactJs.
 - 🌱 I’m currently learning JavaScript & ReactJs.
 - 📫 How to reach me -> petar_g@abv.bg
